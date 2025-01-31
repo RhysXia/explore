@@ -1,4 +1,4 @@
-FROM eclipse-temurin:11-jre-alpine
+FROM eclipse-temurin:11.0.26_4-jre-alpine
 
 MAINTAINER RhysXia
 
